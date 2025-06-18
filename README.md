@@ -3,7 +3,7 @@ Aspiring devops | AWS Cloud | Backend Development | Real time applications
 
 ## 🚀About Me:
 <ul style="list-style-type: square;">
-  <li> 🎓 BTech Student in E&TC Engineering at VIT Pune </li> <br> <li> ⚙️ Working on BlockPay blockchain payment application </li> <br> <li> 🧠 Exploring fast and secure backend and cloud technologies </li> <br> <li> 🛡️ Passionate about devsecops<br> 📫 Contact nandwalkarkumar1@gmail.com </li> <br> </ul>
+  <li> 🎓 BTech Student in E&TC Engineering at VIT Pune </li> <li> ⚙️ Working on BlockPay blockchain payment application </li>  <li> 🧠 Exploring fast and secure backend and cloud technologies </li>  <li> 🛡️ Passionate about devsecops </li> <li> 📫 Contact nandwalkarkumar1@gmail.com </li> <br> </ul>
 
 
 ## 🌐 Socials:
